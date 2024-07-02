@@ -1,0 +1,305 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{901BB03F-2814-4A33-97AF-D08DB9647CE9}|BANKA\\BANKA.csproj|C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\banka\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{901BB03F-2814-4A33-97AF-D08DB9647CE9}|BANKA\\BANKA.csproj|solutionrelative:banka\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901BB03F-2814-4A33-97AF-D08DB9647CE9}|BANKA\\BANKA.csproj|C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\banka\\kayitol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{901BB03F-2814-4A33-97AF-D08DB9647CE9}|BANKA\\BANKA.csproj|solutionrelative:banka\\kayitol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901BB03F-2814-4A33-97AF-D08DB9647CE9}|BANKA\\BANKA.csproj|C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\banka\\havale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{901BB03F-2814-4A33-97AF-D08DB9647CE9}|BANKA\\BANKA.csproj|solutionrelative:banka\\havale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901BB03F-2814-4A33-97AF-D08DB9647CE9}|BANKA\\BANKA.csproj|c:\\users\\mahmu\\onedrive\\masa\u00FCst\u00FC\\banka\\banka\\banka\\havale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901BB03F-2814-4A33-97AF-D08DB9647CE9}|BANKA\\BANKA.csproj|solutionrelative:banka\\havale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901BB03F-2814-4A33-97AF-D08DB9647CE9}|BANKA\\BANKA.csproj|C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\banka\\parayatir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901BB03F-2814-4A33-97AF-D08DB9647CE9}|BANKA\\BANKA.csproj|solutionrelative:banka\\parayatir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901BB03F-2814-4A33-97AF-D08DB9647CE9}|BANKA\\BANKA.csproj|C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\banka\\rapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901BB03F-2814-4A33-97AF-D08DB9647CE9}|BANKA\\BANKA.csproj|solutionrelative:banka\\rapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901BB03F-2814-4A33-97AF-D08DB9647CE9}|BANKA\\BANKA.csproj|C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\banka\\paracek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901BB03F-2814-4A33-97AF-D08DB9647CE9}|BANKA\\BANKA.csproj|solutionrelative:banka\\paracek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901BB03F-2814-4A33-97AF-D08DB9647CE9}|BANKA\\BANKA.csproj|C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\banka\\rapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{901BB03F-2814-4A33-97AF-D08DB9647CE9}|BANKA\\BANKA.csproj|solutionrelative:banka\\rapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901BB03F-2814-4A33-97AF-D08DB9647CE9}|BANKA\\BANKA.csproj|C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\banka\\musteriekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{901BB03F-2814-4A33-97AF-D08DB9647CE9}|BANKA\\BANKA.csproj|solutionrelative:banka\\musteriekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901BB03F-2814-4A33-97AF-D08DB9647CE9}|BANKA\\BANKA.csproj|C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\banka\\paracek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{901BB03F-2814-4A33-97AF-D08DB9647CE9}|BANKA\\BANKA.csproj|solutionrelative:banka\\paracek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901BB03F-2814-4A33-97AF-D08DB9647CE9}|BANKA\\BANKA.csproj|C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\banka\\parayatir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{901BB03F-2814-4A33-97AF-D08DB9647CE9}|BANKA\\BANKA.csproj|solutionrelative:banka\\parayatir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901BB03F-2814-4A33-97AF-D08DB9647CE9}|BANKA\\BANKA.csproj|C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\banka\\anamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{901BB03F-2814-4A33-97AF-D08DB9647CE9}|BANKA\\BANKA.csproj|solutionrelative:banka\\anamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901BB03F-2814-4A33-97AF-D08DB9647CE9}|BANKA\\BANKA.csproj|C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\banka\\musterisil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901BB03F-2814-4A33-97AF-D08DB9647CE9}|BANKA\\BANKA.csproj|solutionrelative:banka\\musterisil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901BB03F-2814-4A33-97AF-D08DB9647CE9}|BANKA\\BANKA.csproj|C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\banka\\musterisil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{901BB03F-2814-4A33-97AF-D08DB9647CE9}|BANKA\\BANKA.csproj|solutionrelative:banka\\musterisil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901BB03F-2814-4A33-97AF-D08DB9647CE9}|BANKA\\BANKA.csproj|C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\banka\\anamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901BB03F-2814-4A33-97AF-D08DB9647CE9}|BANKA\\BANKA.csproj|solutionrelative:banka\\anamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901BB03F-2814-4A33-97AF-D08DB9647CE9}|BANKA\\BANKA.csproj|C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\banka\\musteriekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901BB03F-2814-4A33-97AF-D08DB9647CE9}|BANKA\\BANKA.csproj|solutionrelative:banka\\musteriekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901BB03F-2814-4A33-97AF-D08DB9647CE9}|BANKA\\BANKA.csproj|C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\banka\\kayitol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901BB03F-2814-4A33-97AF-D08DB9647CE9}|BANKA\\BANKA.csproj|solutionrelative:banka\\kayitol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901BB03F-2814-4A33-97AF-D08DB9647CE9}|BANKA\\BANKA.csproj|C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\banka\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901BB03F-2814-4A33-97AF-D08DB9647CE9}|BANKA\\BANKA.csproj|solutionrelative:banka\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "paracek.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\BANKA\\paracek.cs",
+              "RelativeDocumentMoniker": "BANKA\\paracek.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\BANKA\\paracek.cs",
+              "RelativeToolTip": "BANKA\\paracek.cs",
+              "ViewState": "AQIAAEgAAAAAkJmZmZkfwFoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-02T11:27:24.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "paracek.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\BANKA\\paracek.cs",
+              "RelativeDocumentMoniker": "BANKA\\paracek.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\bankasim\\BANKA\\BANKA\\paracek.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Hp\\Desktop\\bankasim\\BANKA\\BANKA\\paracek.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-02T11:27:24.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "havale.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\BANKA\\havale.cs",
+              "RelativeDocumentMoniker": "BANKA\\havale.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\BANKA\\havale.cs",
+              "RelativeToolTip": "BANKA\\havale.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAswHUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:27:24.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "rapor.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\BANKA\\rapor.cs",
+              "RelativeDocumentMoniker": "BANKA\\rapor.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\BANKA\\rapor.cs",
+              "RelativeToolTip": "BANKA\\rapor.cs",
+              "ViewState": "AQIAACsAAAAAGJuZmZnZvzoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-02T11:27:24.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "parayatir.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\BANKA\\parayatir.cs",
+              "RelativeDocumentMoniker": "BANKA\\parayatir.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\BANKA\\parayatir.cs",
+              "RelativeToolTip": "BANKA\\parayatir.cs",
+              "ViewState": "AQIAACAAAAAAnZmZmZkFwCoAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-02T11:27:24.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "giris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\BANKA\\giris.cs",
+              "RelativeDocumentMoniker": "BANKA\\giris.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\BANKA\\giris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "BANKA\\giris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:27:24.309Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "kayitol.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\BANKA\\kayitol.cs",
+              "RelativeDocumentMoniker": "BANKA\\kayitol.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\BANKA\\kayitol.cs [Tasar\u0131m]",
+              "RelativeToolTip": "BANKA\\kayitol.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:27:24.311Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "havale.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\BANKA\\havale.cs",
+              "RelativeDocumentMoniker": "BANKA\\havale.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\BANKA\\havale.cs [Tasar\u0131m]",
+              "RelativeToolTip": "BANKA\\havale.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:27:24.313Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "rapor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\BANKA\\rapor.cs",
+              "RelativeDocumentMoniker": "BANKA\\rapor.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\bankasim\\BANKA\\BANKA\\rapor.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Hp\\Desktop\\bankasim\\BANKA\\BANKA\\rapor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-02T11:27:24.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "parayatir.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\BANKA\\parayatir.cs",
+              "RelativeDocumentMoniker": "BANKA\\parayatir.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\bankasim\\BANKA\\BANKA\\parayatir.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Hp\\Desktop\\bankasim\\BANKA\\BANKA\\parayatir.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-02T11:27:24.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "anamenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\BANKA\\anamenu.cs",
+              "RelativeDocumentMoniker": "BANKA\\anamenu.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\bankasim\\BANKA\\BANKA\\anamenu.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Hp\\Desktop\\bankasim\\BANKA\\BANKA\\anamenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-02T11:27:24.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "musteriekle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\BANKA\\musteriekle.cs",
+              "RelativeDocumentMoniker": "BANKA\\musteriekle.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\bankasim\\BANKA\\BANKA\\musteriekle.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Hp\\Desktop\\bankasim\\BANKA\\BANKA\\musteriekle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-02T11:27:24.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "musterisil.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\BANKA\\musterisil.cs",
+              "RelativeDocumentMoniker": "BANKA\\musterisil.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\BANKA\\musterisil.cs",
+              "RelativeToolTip": "BANKA\\musterisil.cs",
+              "ViewState": "AQIAABQAAAAAnpmZmZn5vy0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-02T11:27:24.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "anamenu.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\BANKA\\anamenu.cs",
+              "RelativeDocumentMoniker": "BANKA\\anamenu.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\BANKA\\anamenu.cs",
+              "RelativeToolTip": "BANKA\\anamenu.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAnwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-02T11:27:24.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "musterisil.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\BANKA\\musterisil.cs",
+              "RelativeDocumentMoniker": "BANKA\\musterisil.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\bankasim\\BANKA\\BANKA\\musterisil.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Hp\\Desktop\\bankasim\\BANKA\\BANKA\\musterisil.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-02T11:27:24.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "musteriekle.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\BANKA\\musteriekle.cs",
+              "RelativeDocumentMoniker": "BANKA\\musteriekle.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\BANKA\\musteriekle.cs",
+              "RelativeToolTip": "BANKA\\musteriekle.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-02T11:27:24.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "giris.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\BANKA\\giris.cs",
+              "RelativeDocumentMoniker": "BANKA\\giris.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\BANKA\\giris.cs",
+              "RelativeToolTip": "BANKA\\giris.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAvwDQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:27:24.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "kayitol.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\BANKA\\kayitol.cs",
+              "RelativeDocumentMoniker": "BANKA\\kayitol.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\Banka\\BANKA\\BANKA\\kayitol.cs",
+              "RelativeToolTip": "BANKA\\kayitol.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAnwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:27:24.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
